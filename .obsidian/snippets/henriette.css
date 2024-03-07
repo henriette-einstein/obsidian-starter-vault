@@ -1,0 +1,49 @@
+
+/** Tagpage stuff */
+.markdown-rendered h1 .internal-link,
+.markdown-rendered h2 .internal-link
+{
+  text-decoration: none;
+  color: inherit;
+}
+
+/** Positioning banner images */
+.banner-image img[alt*="py-0"] {
+  object-position: center 0%;
+}
+
+.banner-image img[alt*="py-10"] {
+  object-position: center 10%;
+}
+
+.banner-image img[alt*="py-20"] {
+  object-position: center 20%;
+}
+
+.banner-img[alt*="py-30"] {
+  object-position: center 30%;
+}
+
+.banner-image img[alt*="py-40"] {
+  object-position: center 40%;
+}
+
+.banner-image img[alt*="py-50"] {
+  object-position: center 50%;
+}
+
+.banner-image img[alt*="py-60"] {
+  object-position: center 60%;
+}
+
+.banner-image img[alt*="py-70"] {
+  object-position: center 70%;
+}
+
+.banner-image img[alt*="py-80"] {
+  object-position: center 80%;
+}
+
+.banner-image img[alt*="py-90"] {
+  object-position: center 90%;
+}

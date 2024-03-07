@@ -6,7 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiHome"
+      "LiCog",
+      "LiSparkles",
+      "LiBookOpen",
+      "LiLibrary",
+      "LiGlobe"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -23,5 +27,12 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Home.md": "LiHome"
+  "Home.md": "LiHome",
+  "00 Inbox": "LiInbox",
+  "10 Calendar": "LiCalendar",
+  "20 Atlas": "LiGlobe",
+  "30 Ressources": "LiLibrary",
+  "40 Sources": "LiBookOpen",
+  "50 Highlights": "LiSparkles",
+  "90 System": "LiCog"
 }

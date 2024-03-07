@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "aef41be0e92e4a84",
+        "id": "f72e4c2d545f4ed6",
         "type": "tabs",
         "children": [
           {
-            "id": "bb7ab0efdf705c9e",
+            "id": "46fb5a1c7bbb5c5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "30 Ressources/Types/MOCs/Untyped Notes.md",
                 "mode": "source",
-                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f644116aaea629b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90 System/Templates/Template Daily.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Category",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 375.5
   },
   "right": {
     "id": "679f81e0a4d5e66a",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "90 System/Templates/Template Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "90 System/Templates/Template Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "90 System/Templates/Template Daily.md"
               }
             }
           },
@@ -141,9 +153,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "8a685183dbcf3796",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -152,17 +172,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "bb7ab0efdf705c9e",
+  "active": "1f644116aaea629b",
   "lastOpenFiles": [
-    "README.md",
-    "Home.md"
+    "30 Ressources/Types/MOCs/Untyped Notes.md",
+    "10 Calendar/2024/03/2024-03-07.md",
+    "10 Calendar/2024/2024.md",
+    "10 Calendar/2024/03",
+    "10 Calendar/10 Calendar.md",
+    "Home.md",
+    "90 System/Templates/Template Daily.md",
+    "00 Inbox/00 Inbox.md",
+    "10 Calendar/2024/03/2024-03-04.md",
+    "30 Ressources/30 Ressources.md",
+    "30 Ressources/Images/Banner/Banner.md",
+    "20 Atlas/Categories/Obsidian/Obsidian.md",
+    "30 Ressources/Types/MOCs/Recent Notes.md",
+    "30 Ressources/Types/MOCs/Recent Highlights.md",
+    "20 Atlas/Categories/Knowledge Management/Knowledge Management.md",
+    "20 Atlas/Categories/Categories.md",
+    "90 System/Templates/Note Template.md",
+    "90 System/Templates/MOC Template.md",
+    "90 System/Templates/Banner Image Template.md",
+    "90 System/Templates/Tagpages/Type Template.md",
+    "90 System/Templates/Tagpages/Category Template.md",
+    "20 Atlas/20 Atlas.md",
+    "20 Atlas/Categories/Knowledge Management",
+    "30 Ressources/Images/Banner/Categories.webp",
+    "30 Ressources/Images/Banner/Calendar.webp",
+    "30 Ressources/Images/Banner/Atlas.webp",
+    "50 Highlights/50 Highlights.md",
+    "40 Sources/40 Sources.md",
+    "30 Ressources/Types/Notes/Notes.md",
+    "90 System/Templates/Tagpages/Subtags Template.md",
+    "30 Ressources/Images/Banner/Note.webp",
+    "10 Calendar/2024",
+    "50 Highlights/Book Highlights",
+    "50 Highlights/Article Highlights",
+    "40 Sources/Articles",
+    "40 Sources/Books",
+    "30 Ressources/Images/Banner/Sources.webp",
+    "30 Ressources/Images/Banner/Highlights.webp",
+    "30 Ressources/Images/Banner/MOCs.webp",
+    "30 Ressources/Images/Banner/Articles.webp",
+    "30 Ressources/Images/Banner/Book Highlights.webp",
+    "30 Ressources/Images/Banner/Article Highlights.webp",
+    "90 System/Templates/Tagpages",
+    "30 Ressources/Types/Cities",
+    "30 Ressources/Types/Territories"
   ]
 }

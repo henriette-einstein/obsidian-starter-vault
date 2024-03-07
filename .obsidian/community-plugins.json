@@ -4,5 +4,12 @@
   "obsidian-hider",
   "homepage",
   "obsidian-icon-folder",
-  "cmdr"
+  "cmdr",
+  "dataview",
+  "tag-wrangler",
+  "folder-notes",
+  "obsidian-sortable",
+  "periodic-notes",
+  "templater-obsidian",
+  "calendar"
 ]

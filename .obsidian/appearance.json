@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "banner",
+    "henriette"
+  ]
 }

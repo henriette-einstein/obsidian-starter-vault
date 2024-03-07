@@ -16,6 +16,12 @@
       "mode": "any"
     },
     {
+      "id": "graph:open-local",
+      "icon": "lucide-git-fork",
+      "name": "Graph view: Open local graph",
+      "mode": "any"
+    },
+    {
       "id": "editor:toggle-fold-properties",
       "icon": "lucide-diff",
       "name": "Toggle fold properties in current file",
@@ -34,9 +40,9 @@
       "mode": "any"
     },
     {
-      "id": "graph:open-local",
-      "icon": "lucide-git-fork",
-      "name": "Graph view: Open local graph",
+      "id": "workspace:toggle-pin",
+      "icon": "lucide-pin",
+      "name": "Toggle pin",
       "mode": "any"
     }
   ],

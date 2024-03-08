@@ -16,7 +16,7 @@ banner: "[[MOCs.webp]]"
 # [[Types]] > [[MOCs]]
 ## Instances
 ```dataview
-list from !"90 System"
+table label, description from !"90 System"
 where econtains(tags, this.key)
 sort file.name
 ```

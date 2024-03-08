@@ -4,7 +4,7 @@ tags:
   - Type/MOC
 created: 2024-03-07
 label: Recently imported highlights
-description: Highlights imported from Readwise the last few day
+description: Highlights imported from Readwise the last 5 days
 aliases:
   - Recently imported Highlights
 ---

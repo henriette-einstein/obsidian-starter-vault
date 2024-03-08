@@ -1,7 +1,7 @@
 ---
 up: "[[Home]]"
 tags:
-  - Type/Note
+  - Type/MOC
 label: Calendar
 description: Periodic notes
 created: 2024-03-07
@@ -10,7 +10,7 @@ cssclasses:
   - banner-image
 ---
 > [!banner-image] ![[Calendar.webp]]
-# [[10 Calendar|Calendar]]
+# [[Home]] > [[10 Calendar|Calendar]]
 
 ## Years
 ```dataview

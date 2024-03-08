@@ -2,11 +2,13 @@
 up: "[[Categories]]"
 tags:
   - Type/Tagpage
-created: <% tp.date.now() %>
+label: "{{title}}"
+description: 
+created: "{{date}}"
 key: 
 aliases:
 ---
-# [[Categories]] > [[<% tp.file.title %>]]
+# [[Categories]] > [[{{title}}]]
 ## Instances
 ```dataview
 list from !"90 System"

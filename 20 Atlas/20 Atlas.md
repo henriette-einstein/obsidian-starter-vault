@@ -8,10 +8,10 @@ cssclasses:
   - banner-image
   - embed-strict
 banner: "[[Atlas.webp]]"
-description: Different ways to navigate the Knowledge Base
+description: Navigate the Knowledge Base
 ---
 > [!banner-image] ![[Atlas.webp]]
-# [[20 Atlas|Atlas]]
+# [[Home]] > [[20 Atlas|Atlas]]
 
 ## [[Categories]]
 ```dataview

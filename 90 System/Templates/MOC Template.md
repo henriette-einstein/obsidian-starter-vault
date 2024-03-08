@@ -2,6 +2,8 @@
 up: 
 tags:
   - Type/MOC
-created: <% tp.date.now() %>
+label: "{{title}}"
+description: 
+created: "{{date}}"
 ---
-# [[<% tp.file.title %>]]
+# [[{{title}}]]

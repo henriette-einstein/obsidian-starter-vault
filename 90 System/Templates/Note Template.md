@@ -2,6 +2,6 @@
 up: 
 tags:
   - Type/Note
-created: <% tp.date.now() %>
+created: "{{date}}"
 ---
-# <% tp.file.title %>
+# [[{{title}}]]

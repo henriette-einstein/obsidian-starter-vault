@@ -15,15 +15,14 @@ label: Highlights
 description: Highlights on books, articles etc.
 ---
 > [!banner-image] ![[Highlights.webp|py-70]]
-# [[50 Highlights|Highlights]] 
-## Subtags
+# [[Home]] > [[50 Highlights|Highlights]] 
 ```dataview
 table without id embed(banner) as "Banner", "**" + link(file.link, label)+ "**" as "Name" from #Type/Tagpage and !"90 System/Templates" 
 where up = [[]]
 sort file.name
 ```
 
-## Instances
+## Uncategorized Highlights
 ```dataview
 list from !"90 System"
 where econtains(tags, this.key)

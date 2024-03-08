@@ -1,5 +1,5 @@
 ---
-up: "[[30 Ressources]]"
+up: "[[30 Library]]"
 tags:
   - Type/Tagpage
 created: 2024-02-13

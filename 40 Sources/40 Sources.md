@@ -11,20 +11,19 @@ cssclasses:
   - cards
   - cards-cover
 banner: "[[Sources.webp]]"
-label: Ressources
+label: Sources
 description: Notes on books, articles etc.
 ---
 > [!banner-image] ![[Sources.webp]]
-# [[40 Sources|Sources]]
+# [[Home]] > [[40 Sources|Sources]]
 
-## Subtags
 ```dataview
 table without id embed(banner) as "Banner", "**" + link(file.link,label) + "**" as "Name" from #Type/Tagpage and !"90 System/Templates" 
 where up = [[]]
 sort file.name
 ```
 
-## Instances
+## Uncategorized Sources
 ```dataview
 list from !"90 System"
 where econtains(tags, this.key)

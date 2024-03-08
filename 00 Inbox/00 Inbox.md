@@ -12,7 +12,7 @@ banner: "[[Inbox.png]]"
 
 > [!banner-image] ![[Inbox.png|py-80]]
 
-# Inbox
+# [[Home]] > [[00 Inbox|Inbox]]
 
 ```dataview
 table created from "00 Inbox" and !"00 Inbox/00 Inbox"

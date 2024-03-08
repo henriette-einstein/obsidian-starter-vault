@@ -31,8 +31,8 @@
   "00 Inbox": "LiInbox",
   "10 Calendar": "LiCalendar",
   "20 Atlas": "LiGlobe",
-  "30 Ressources": "LiLibrary",
   "40 Sources": "LiBookOpen",
   "50 Highlights": "LiSparkles",
-  "90 System": "LiCog"
+  "90 System": "LiCog",
+  "30 Library": "LiLibrary"
 }

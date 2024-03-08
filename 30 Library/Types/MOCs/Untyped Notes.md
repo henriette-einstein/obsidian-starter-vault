@@ -1,6 +1,6 @@
 ---
 tags:
-  - Type/Note
+  - Type/MOC
 created: 2024-03-07
 aliases:
   - Untyped Notes

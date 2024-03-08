@@ -13,26 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Ressources/Types/MOCs/Untyped Notes.md",
+                "file": "50 Highlights/50 Highlights.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f644116aaea629b",
+            "id": "2fc77f21c9434c14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90 System/Templates/Template Daily.md",
+                "file": "50 Highlights/50 Highlights.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27bae6d1fdb5e73d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90 System/Templates/MOC Template.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90 System/Templates/Template Daily.md",
+                "file": "90 System/Templates/MOC Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90 System/Templates/Template Daily.md",
+                "file": "90 System/Templates/MOC Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90 System/Templates/Template Daily.md"
+                "file": "90 System/Templates/MOC Template.md"
               }
             }
           },
@@ -163,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -172,7 +184,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -183,50 +194,51 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1f644116aaea629b",
+  "active": "27bae6d1fdb5e73d",
   "lastOpenFiles": [
-    "30 Ressources/Types/MOCs/Untyped Notes.md",
-    "10 Calendar/2024/03/2024-03-07.md",
-    "10 Calendar/2024/2024.md",
-    "10 Calendar/2024/03",
-    "10 Calendar/10 Calendar.md",
-    "Home.md",
-    "90 System/Templates/Template Daily.md",
-    "00 Inbox/00 Inbox.md",
-    "10 Calendar/2024/03/2024-03-04.md",
-    "30 Ressources/30 Ressources.md",
-    "30 Ressources/Images/Banner/Banner.md",
-    "20 Atlas/Categories/Obsidian/Obsidian.md",
-    "30 Ressources/Types/MOCs/Recent Notes.md",
-    "30 Ressources/Types/MOCs/Recent Highlights.md",
-    "20 Atlas/Categories/Knowledge Management/Knowledge Management.md",
-    "20 Atlas/Categories/Categories.md",
-    "90 System/Templates/Note Template.md",
+    "30 Library/Types/MOCs/MOCs.md",
+    "30 Library/Types/MOCs/Untyped Notes.md",
+    "30 Library/Types/MOCs/Recent Highlights.md",
+    "30 Library/Types/MOCs/Recent Notes.md",
     "90 System/Templates/MOC Template.md",
-    "90 System/Templates/Banner Image Template.md",
-    "90 System/Templates/Tagpages/Type Template.md",
     "90 System/Templates/Tagpages/Category Template.md",
-    "20 Atlas/20 Atlas.md",
-    "20 Atlas/Categories/Knowledge Management",
-    "30 Ressources/Images/Banner/Categories.webp",
-    "30 Ressources/Images/Banner/Calendar.webp",
-    "30 Ressources/Images/Banner/Atlas.webp",
+    "90 System/Templates/Tagpages/Type Template.md",
+    "Home.md",
     "50 Highlights/50 Highlights.md",
+    "50 Highlights/Book Highlights/Book Highlights.md",
+    "50 Highlights/Article Highlights/Article Highlights.md",
+    "00 Inbox/00 Inbox.md",
+    "10 Calendar/10 Calendar.md",
+    "20 Atlas/20 Atlas.md",
     "40 Sources/40 Sources.md",
-    "30 Ressources/Types/Notes/Notes.md",
+    "30 Library/30 Library.md",
+    "20 Atlas/Categories/Obsidian/Obsidian.md",
+    "20 Atlas/Categories/Knowledge Management/Knowledge Management.md",
+    "90 System/Templates/Banner Image Template.md",
     "90 System/Templates/Tagpages/Subtags Template.md",
-    "30 Ressources/Images/Banner/Note.webp",
+    "30 Library/Types/Notes/Notes.md",
+    "90 System/Templates/Daily Template.md",
+    "10 Calendar/2024/03/2024-03-08.md",
+    "10 Calendar/2024/03/2024-03-09.md",
+    "10 Calendar/2024/03/2024-03-07.md",
+    "90 System/Templates/Note Template.md",
+    "10 Calendar/2024/03",
+    "20 Atlas/Categories/Knowledge Management",
+    "30 Library/Images/Banner/Categories.webp",
+    "30 Library/Images/Banner/Calendar.webp",
+    "30 Library/Images/Banner/Atlas.webp",
+    "30 Library/Images/Banner/Note.webp",
     "10 Calendar/2024",
     "50 Highlights/Book Highlights",
     "50 Highlights/Article Highlights",
     "40 Sources/Articles",
     "40 Sources/Books",
-    "30 Ressources/Images/Banner/Sources.webp",
-    "30 Ressources/Images/Banner/Highlights.webp",
-    "30 Ressources/Images/Banner/MOCs.webp",
-    "30 Ressources/Images/Banner/Articles.webp",
-    "30 Ressources/Images/Banner/Book Highlights.webp",
-    "30 Ressources/Images/Banner/Article Highlights.webp",
+    "30 Library/Images/Banner/Sources.webp",
+    "30 Library/Images/Banner/Highlights.webp",
+    "30 Library/Images/Banner/MOCs.webp",
+    "30 Library/Images/Banner/Articles.webp",
+    "30 Library/Images/Banner/Book Highlights.webp",
+    "30 Library/Images/Banner/Article Highlights.webp",
     "90 System/Templates/Tagpages",
     "30 Ressources/Types/Cities",
     "30 Ressources/Types/Territories"

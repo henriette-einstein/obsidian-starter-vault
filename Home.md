@@ -12,7 +12,7 @@ cssclasses:
 - [[Recent Notes|Recently created notes]] and [[Recent Highlights|Recently imported Highlights]]
 - [[Untyped Notes|Untyped Notes]]
 
-
+## Sections
 ```dataview
 table without id link(file.name,label), embed(banner), description where up = [[]]
 sort file.name

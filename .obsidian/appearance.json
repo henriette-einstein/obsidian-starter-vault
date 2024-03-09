@@ -3,6 +3,7 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "banner",
-    "henriette"
+    "henriette",
+    "MCL Multi Column"
   ]
 }

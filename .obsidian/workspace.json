@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f72e4c2d545f4ed6",
+        "id": "ea43521b306e7ec2",
         "type": "tabs",
         "children": [
           {
-            "id": "46fb5a1c7bbb5c5b",
+            "id": "f513ffbb5deb5040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50 Highlights/50 Highlights.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fc77f21c9434c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50 Highlights/50 Highlights.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "27bae6d1fdb5e73d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90 System/Templates/MOC Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 209.5
   },
   "right": {
     "id": "679f81e0a4d5e66a",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90 System/Templates/MOC Template.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90 System/Templates/MOC Template.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90 System/Templates/MOC Template.md"
+                "file": "Home.md"
               }
             }
           },
@@ -194,7 +169,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "27bae6d1fdb5e73d",
+  "active": "f513ffbb5deb5040",
   "lastOpenFiles": [
     "30 Library/Types/MOCs/MOCs.md",
     "30 Library/Types/MOCs/Untyped Notes.md",

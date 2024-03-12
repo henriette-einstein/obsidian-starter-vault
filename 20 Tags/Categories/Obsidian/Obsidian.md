@@ -2,16 +2,17 @@
 up: "[[Categories]]"
 tags:
   - Type/Tagpage
+  - Category/System
 label: Obsidian
+description: Notes on the Obsidian application
 created: 2024-03-05
-key: Category/Obsidian
 aliases:
   - "#Category/Obsidian"
 ---
 # [[Categories]] > [[Obsidian]]
-## Instances
+## Notes
 ```dataview
 list from !"90 System"
-where econtains(tags, this.key)
+where econtains(file.etags, this.aliases[0])
 sort file.name
 ```

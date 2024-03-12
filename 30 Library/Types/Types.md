@@ -2,6 +2,7 @@
 up: "[[30 Library]]"
 tags:
   - Type/Tagpage
+  - Category/System
 created: 2024-02-13
 aliases:
   - "#Type"

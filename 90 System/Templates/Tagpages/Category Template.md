@@ -5,13 +5,12 @@ tags:
 label: "{{title}}"
 description: 
 created: "{{date}}"
-key: 
 aliases:
 ---
 # [[Categories]] > [[{{title}}]]
-## Instances
+## Notes
 ```dataview
 list from !"90 System"
-where econtains(tags, this.key)
+where econtains(file.etags, this.aliases[0])
 sort file.name
 ```

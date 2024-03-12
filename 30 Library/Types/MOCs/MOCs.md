@@ -4,8 +4,8 @@ label: MOCs
 description: Maps of Content and Index Pages
 tags:
   - Type/Tagpage
+  - Category/System
 created: 2024-03-05
-key: Type/MOC
 aliases:
   - "#Type/MOC"
 cssclasses:
@@ -14,9 +14,9 @@ banner: "[[MOCs.webp]]"
 ---
 > [!banner-image] ![[MOCs.webp]]
 # [[Types]] > [[MOCs]]
-## Instances
+## Notes
 ```dataview
-table label, description from !"90 System"
-where econtains(tags, this.key)
+table description from !"90 System"
+where econtains(file.etags, this.aliases[0])
 sort file.name
 ```

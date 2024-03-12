@@ -2,6 +2,7 @@
 up: "[[Home]]"
 tags:
   - Type/MOC
+  - Category/System
 created: 2024-03-06
 label: Library
 description: The library of organized and distilled notes
@@ -15,3 +16,6 @@ banner: "[[Ressources.png]]"
 
 ## Note Types
 ![[Types]]
+
+## Media
+- [[Images]]

@@ -1,17 +1,18 @@
 ---
 up: "[[Home]]"
-label: Atlas
+label: Discovery
+description: Navigate the Knowledge Base
 tags:
   - Type/MOC
+  - Category/System
 created: 2024-03-06
 cssclasses:
   - banner-image
   - embed-strict
 banner: "[[Atlas.webp]]"
-description: Navigate the Knowledge Base
 ---
 > [!banner-image] ![[Atlas.webp]]
-# [[Home]] > [[20 Atlas|Atlas]]
+# [[Home]] > [[20 Tags|Discovery]]
 
 ## [[Categories]]
 ```dataview

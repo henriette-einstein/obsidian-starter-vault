@@ -1,6 +1,7 @@
 ---
 tags:
   - Type/MOC
+  - Category/System
 created: 2024-03-07
 aliases:
   - Untyped Notes
@@ -15,4 +16,6 @@ sort file.ctime
 ```
 
 # See also
+- [[Uncategorized Notes|Uncategorized Notes]]
 - [[Recent Notes|Recently created notes]]
+- [[Recent Highlights|Recently imported Highlights]]

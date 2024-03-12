@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea43521b306e7ec2",
+        "id": "af26abd39c5a4a9c",
         "type": "tabs",
         "children": [
           {
-            "id": "f513ffbb5deb5040",
+            "id": "afeb5b8886e36b40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "30 Library/Media/Images/Banner/Banner.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 200
   },
   "right": {
     "id": "679f81e0a4d5e66a",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "30 Library/Media/Images/Banner/Banner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "30 Library/Media/Images/Banner/Banner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "30 Library/Media/Images/Banner/Banner.md"
               }
             }
           },
@@ -169,53 +169,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f513ffbb5deb5040",
+  "active": "afeb5b8886e36b40",
   "lastOpenFiles": [
+    "30 Library/Media/Images/Images.md",
+    "30 Library/30 Library.md",
     "30 Library/Types/MOCs/MOCs.md",
-    "30 Library/Types/MOCs/Untyped Notes.md",
+    "30 Library/Types/Notes/Notes.md",
     "30 Library/Types/MOCs/Recent Highlights.md",
     "30 Library/Types/MOCs/Recent Notes.md",
-    "90 System/Templates/MOC Template.md",
-    "90 System/Templates/Tagpages/Category Template.md",
-    "90 System/Templates/Tagpages/Type Template.md",
-    "Home.md",
-    "50 Highlights/50 Highlights.md",
+    "30 Library/Types/MOCs/Uncategorized Notes.md",
+    "30 Library/Types/MOCs/Untyped Notes.md",
+    "20 Tags/Categories/System/System.md",
+    "20 Tags/Categories/Obsidian/Obsidian.md",
+    "20 Tags/Categories/Knowledge Management/Knowledge Management.md",
+    "20 Tags/Categories/Categories.md",
+    "40 Sources/Articles/Articles.md",
+    "40 Sources/Books/Books.md",
     "50 Highlights/Book Highlights/Book Highlights.md",
     "50 Highlights/Article Highlights/Article Highlights.md",
     "00 Inbox/00 Inbox.md",
     "10 Calendar/10 Calendar.md",
-    "20 Atlas/20 Atlas.md",
-    "40 Sources/40 Sources.md",
-    "30 Library/30 Library.md",
-    "20 Atlas/Categories/Obsidian/Obsidian.md",
-    "20 Atlas/Categories/Knowledge Management/Knowledge Management.md",
+    "90 System/Templates/Tagpages/Type Template.md",
+    "90 System/Templates/Tagpages/Category Template.md",
+    "30 Library/Types/Types.md",
+    "90 System/Templates/Note Template.md",
+    "90 System/Templates/MOC Template.md",
+    "90 System/Templates/Daily Template.md",
     "90 System/Templates/Banner Image Template.md",
     "90 System/Templates/Tagpages/Subtags Template.md",
-    "30 Library/Types/Notes/Notes.md",
-    "90 System/Templates/Daily Template.md",
-    "10 Calendar/2024/03/2024-03-08.md",
-    "10 Calendar/2024/03/2024-03-09.md",
-    "10 Calendar/2024/03/2024-03-07.md",
-    "90 System/Templates/Note Template.md",
+    "30 Library/Media/Images/Banner/PKM.webp",
+    "20 Tags/Categories/System",
+    "30 Library/Media/PDFs",
+    "30 Library/Media",
     "10 Calendar/2024/03",
-    "20 Atlas/Categories/Knowledge Management",
-    "30 Library/Images/Banner/Categories.webp",
-    "30 Library/Images/Banner/Calendar.webp",
-    "30 Library/Images/Banner/Atlas.webp",
-    "30 Library/Images/Banner/Note.webp",
+    "20 Tags/Categories/Knowledge Management",
+    "30 Library/Media/Images/Banner/Categories.webp",
+    "30 Library/Media/Images/Banner/Calendar.webp",
+    "30 Library/Media/Images/Banner/Atlas.webp",
+    "30 Library/Media/Images/Banner/Note.webp",
     "10 Calendar/2024",
     "50 Highlights/Book Highlights",
     "50 Highlights/Article Highlights",
     "40 Sources/Articles",
     "40 Sources/Books",
-    "30 Library/Images/Banner/Sources.webp",
-    "30 Library/Images/Banner/Highlights.webp",
-    "30 Library/Images/Banner/MOCs.webp",
-    "30 Library/Images/Banner/Articles.webp",
-    "30 Library/Images/Banner/Book Highlights.webp",
-    "30 Library/Images/Banner/Article Highlights.webp",
-    "90 System/Templates/Tagpages",
-    "30 Ressources/Types/Cities",
-    "30 Ressources/Types/Territories"
+    "30 Library/Media/Images/Banner/Sources.webp",
+    "30 Library/Media/Images/Banner/Highlights.webp",
+    "30 Library/Media/Images/Banner/MOCs.webp",
+    "30 Library/Media/Images/Banner/Articles.webp",
+    "30 Library/Media/Images/Banner/Book Highlights.webp"
   ]
 }

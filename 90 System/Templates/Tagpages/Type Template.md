@@ -2,17 +2,15 @@
 up: "[[Types]]"
 tags:
   - Type/Tagpage
-label:
-  "{{title}}"
+label: "{{title}}"
 description: 
 created: "{{date}}"
-key: 
 aliases:
 ---
 # [[Types]] > [[{{title}}]]
-## Instances
+## Notes
 ```dataview
 list from !"90 System"
-where econtains(tags, this.key)
+where econtains(file.etags, this.aliases[0])
 sort file.name
 ```

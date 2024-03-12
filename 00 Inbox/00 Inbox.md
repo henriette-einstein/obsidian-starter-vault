@@ -2,6 +2,7 @@
 up: "[[Home]]"
 tags:
   - Type/MOC
+  - Category/System
 created: 2024-03-06
 label: Inbox
 description: Newly captured notes that are not organized yet

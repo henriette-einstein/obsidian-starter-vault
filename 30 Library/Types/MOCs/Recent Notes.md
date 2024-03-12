@@ -1,6 +1,7 @@
 ---
 tags:
   - Type/MOC
+  - Category/System
 label: Recently created notes
 description: New notes added the last 5 days
 created: 2024-03-07
@@ -16,3 +17,5 @@ sort file.ctime
 
 # See also
 - [[Recent Highlights|Recently imported Highlights]]
+- [[Uncategorized Notes]]
+- [[Untyped Notes|Untyped Notes]]

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Library/Media/Images/Banner/Banner.md",
-                "mode": "preview",
+                "file": "30 Library/Types/Notes/Notes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 Library/Media/Images/Banner/Banner.md",
+                "file": "30 Library/Types/Notes/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 Library/Media/Images/Banner/Banner.md",
+                "file": "30 Library/Types/Notes/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Library/Media/Images/Banner/Banner.md"
+                "file": "30 Library/Types/Notes/Notes.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "afeb5b8886e36b40",
   "lastOpenFiles": [
+    "30 Library/Media/Images/Banner/Banner.md",
     "30 Library/Media/Images/Images.md",
     "30 Library/30 Library.md",
     "30 Library/Types/MOCs/MOCs.md",
@@ -196,7 +197,6 @@
     "90 System/Templates/MOC Template.md",
     "90 System/Templates/Daily Template.md",
     "90 System/Templates/Banner Image Template.md",
-    "90 System/Templates/Tagpages/Subtags Template.md",
     "30 Library/Media/Images/Banner/PKM.webp",
     "20 Tags/Categories/System",
     "30 Library/Media/PDFs",

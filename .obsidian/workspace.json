@@ -11,11 +11,14 @@
             "id": "afeb5b8886e36b40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "30 Library/Types/Notes/Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "30 Library/Types/Canvases/Sample Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 Library/Types/Notes/Notes.md",
+                "file": "30 Library/Types/Canvases/Sample Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 Library/Types/Notes/Notes.md",
+                "file": "30 Library/Types/Canvases/Sample Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Library/Types/Notes/Notes.md"
+                "file": "30 Library/Types/Canvases/Sample Canvas.canvas"
               }
             }
           },
@@ -171,11 +174,17 @@
   },
   "active": "afeb5b8886e36b40",
   "lastOpenFiles": [
+    "30 Library/Types/Canvases/Canvases.md",
+    "30 Library/Types/Types.md",
+    "90 System/js/listfiles.js",
+    "90 System/js",
+    "30 Library/Types/Canvases/Sample Canvas.canvas",
+    "30 Library/Types/Notes/Notes.md",
+    "30 Library/Types/Canvases",
     "30 Library/Media/Images/Banner/Banner.md",
     "30 Library/Media/Images/Images.md",
     "30 Library/30 Library.md",
     "30 Library/Types/MOCs/MOCs.md",
-    "30 Library/Types/Notes/Notes.md",
     "30 Library/Types/MOCs/Recent Highlights.md",
     "30 Library/Types/MOCs/Recent Notes.md",
     "30 Library/Types/MOCs/Uncategorized Notes.md",
@@ -192,11 +201,8 @@
     "10 Calendar/10 Calendar.md",
     "90 System/Templates/Tagpages/Type Template.md",
     "90 System/Templates/Tagpages/Category Template.md",
-    "30 Library/Types/Types.md",
     "90 System/Templates/Note Template.md",
     "90 System/Templates/MOC Template.md",
-    "90 System/Templates/Daily Template.md",
-    "90 System/Templates/Banner Image Template.md",
     "30 Library/Media/Images/Banner/PKM.webp",
     "20 Tags/Categories/System",
     "30 Library/Media/PDFs",
@@ -209,9 +215,6 @@
     "30 Library/Media/Images/Banner/Note.webp",
     "10 Calendar/2024",
     "50 Highlights/Book Highlights",
-    "50 Highlights/Article Highlights",
-    "40 Sources/Articles",
-    "40 Sources/Books",
     "30 Library/Media/Images/Banner/Sources.webp",
     "30 Library/Media/Images/Banner/Highlights.webp",
     "30 Library/Media/Images/Banner/MOCs.webp",

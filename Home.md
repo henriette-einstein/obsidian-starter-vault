@@ -16,6 +16,7 @@ description: Homepage of the vault
 
 - [[20 Tags|Discovery]] Start here to discover the notes in this vault
 - [[Recent Notes|Recently created notes]] and [[Recent Highlights|Recently imported Highlights]]
+- [[Best Connected Notes]] and [[Worst Connected Notes]]
 - [[Untyped Notes|Untyped Notes]] and [[Uncategorized Notes|Uncategorized Notes]]
 
 ## Sections
